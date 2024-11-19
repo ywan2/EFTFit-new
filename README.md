@@ -1,4 +1,4 @@
-# EFTFit-v2.0
+# EFTFit-v2
 
 This branch is created to run the basics of EFTFit with interference model compatible with [CMSSW14x](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/latest/#installation-instructions).
 ## Set up
